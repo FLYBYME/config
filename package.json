@@ -1,0 +1,27 @@
+{
+  "name": "config-mixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "services/config.service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLYBYME/config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FLYBYME/config/issues"
+  },
+  "homepage": "https://github.com/FLYBYME/config#readme",
+  "dependencies": {
+    "cache-cleaner-mixin": "git+https://github.com/FLYBYME/cache-cleaner-mixin.git",
+    "config-mixin": "git+https://github.com/FLYBYME/config-mixin.git",
+    "cron-mixin": "git+https://github.com/FLYBYME/cron-mixin.git",
+    "db-mixin": "git+https://github.com/FLYBYME/db-mixin.git",
+    "lodash": "^4.17.21",
+    "moleculer": "^0.14.19"
+  }
+}
