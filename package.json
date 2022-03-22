@@ -2,7 +2,7 @@
   "name": "config-mixin",
   "version": "1.0.0",
   "description": "",
-  "main": "services/config.service.js",
+  "main": "config.mixin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
